@@ -4,8 +4,8 @@
   "display": "standalone",
   "name": "Calistenia",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/Calistenia/",
   "short_name": "Calistenia",
-  "start_url": "/",
+  "start_url": "/Calistenia/",
   "theme_color": "#059669"
 }
