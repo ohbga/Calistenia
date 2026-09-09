@@ -1,18 +1,12 @@
 {
-  "name": "Calistenia Progressiva",
-  "short_name": "Calistenia",
-  "start_url": "/Calistenia/index.html",
-  "scope": "/Calistenia/",
+  "background_color": "#ffffff",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#171717",
-  "theme_color": "#059669",
+  "name": "Calistenia",
   "orientation": "portrait",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "scope": "/",
+  "short_name": "Calistenia",
+  "start_url": "/",
+  "theme_color": "#059669",
+  "description": "App de Calistenia Progressiva"
 }
