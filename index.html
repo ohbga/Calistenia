@@ -168,7 +168,7 @@
 
     // Registro do Service Worker para o PWA/APK
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./sw.js').catch(() => {});
+  navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(() => {});
     }
   </script>
 </body>
