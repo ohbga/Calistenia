@@ -1,5 +1,9 @@
 const CACHE_NAME = 'calistenia-v1';
-const ASSETS = ['./index.html', './manifest.json'];
+const ASSETS = [
+  '/Calistenia/',
+  '/Calistenia/index.html',
+  '/Calistenia/manifest.json'
+];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
