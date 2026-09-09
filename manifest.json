@@ -1,17 +1,11 @@
 {
-  "name": "Calistenia Progressiva",
-  "short_name": "Calistenia",
-  "start_url": "./index.html",
-  "display": "standalone",
   "background_color": "#171717",
-  "theme_color": "#059669",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Calistenia",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calistenia",
+  "start_url": "/",
+  "theme_color": "#059669"
 }
